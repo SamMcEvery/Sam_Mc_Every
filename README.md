@@ -8,3 +8,5 @@ https://drive.google.com/file/d/1AasTgnM-xNKdVcmZ_36dvjJ9bMU5MiKg/view?usp=drive
 
 Эта же ссылка есть в закреплённой сообщении (первом сообщении на странице вконтакте)
 https://vk.com/id561374214
+
+ Запуск bin-release-...exe(приложение)
